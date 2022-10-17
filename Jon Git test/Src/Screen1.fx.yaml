@@ -1,7 +1,7 @@
 Screen1 As screen:
 
     Label1 As label:
-        Text: ="Text"
+        Text: ="This is a test for first change"
         X: =668
         Y: =220
         ZIndex: =1
